@@ -1,7 +1,8 @@
 const app = Vue.createApp({
     data() {
         return {
-            courseGoal: 'Finish the course on Time!'
+            courseGoal: 'Finish the course on Time!',
+            vueLink: 'https://vuejs.org'
         };
     }
 });
